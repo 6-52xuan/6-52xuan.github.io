@@ -1,15 +1,18 @@
-Package: com.iosdump.jumpselect
-Name: JumpSelect
-Depends: mobilesubstrate, preferenceloader
-Description: 神级插件，为多开应用提供支付跳转及登录跳转选项。支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。插件用处：例如付款时使用微信支付可选多开微信或登录跳转这种也可
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/js.json
-Maintainer: iosdump
-Author: iosdump
-Section: 你的iPhone不止于此
+Package: com.iosdump.appdata
 Architecture: iphoneos-arm64e
-Version: 1.0.0
-Installed-Size: 476
-Filename: redirector_arm64e.deb
-Size: 59964
-
+Version: 2.7.5
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.5_iphoneos-arm64e.deb
+Size: 1707624
+MD5sum: 18acc8143f16f8363e84eeb410e04152
+SHA1: 8ea8ed8b47e881690103096b8f475a3e417c4b95
+SHA256: cab015fc1f8634d924bda946af99c7136550b9115470136b379d86797a5950b9
+SHA512: 30083bf1cc821163112452b0b7988be8bb771db63bc0a6ee043369917c35b30c27c4e031807c478bc0248c5457c3e5687d9e58456d6c416c93a5d947af974681
+Section: 其它
+Description: 在主屏幕查看应用数据与管理应用
+Name: AppData
+Author: iosdump
+Icon: https://huayuarc.github.io/icon/AppData.png
