@@ -3,8 +3,25 @@
     {
       "name": "自用",
       "orig": "",
+      "pkgs": [
+        "com.jaysuen.evocenter",
+        "com.iosdump.appdata",
+        "com.mrgcgamer.libgcuniversal",
+        "com.opa334.ccsupport",
+        "im.mjh.doleo",
+        "com.dao.immortalizer",
+        "com.sini921.quickpowerbutton",
+        "com.0xkuj.safarixs",
+        "com.axs.snapper4",
+        "com.crctdd.autocopyverify",
+        "byg.iosios.net.settingsrevamp",
+        "com.iosdump.jumpselect"
+      ]
+    },
+    {
+      "name": "插件",
+      "orig": "",
       "pkgs": []
     }
-  ],
-  "other": "其它"
+  ]
 }
