@@ -1,17 +1,1 @@
-Package: com.iosdump.appdata
-Architecture: iphoneos-arm64
-Version: 2.7.5
-Maintainer: iosdump
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
-Filename: debs/com.iosdump.appdata_2.7.5_iphoneos-arm64.deb
-Size: 1719404
-MD5sum: 22dc71b5ecf9f94180698ac11b8b45dd
-SHA1: 64b98b745de8c56afd302b08b554ac8f13b07efb
-SHA256: b960358e95eadf8665145f57ad07f01c90b5fc709b4f6a8a123f3c53b29f4cd1
-SHA512: d69ae301e4b6d741ee3ae97584b83f696938df6aab55a7336ed4761db9d164ae1373cd05f29005e9a46628d260852dcbf8b4ad4db14a465b80b8712069d04b74
-Section: 其它
-Description: 在主屏幕查看应用数据与管理应用
-Name: AppData
-Author: iosdump
-Icon: https://huayuarc.github.io/icon/AppData.png
+
