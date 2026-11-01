@@ -121,6 +121,26 @@ Name: 快速电源按钮QuickPowerButton
 icon: https://huayuarc.github.io/icon/QuickPowerButton.png
 Author: SINI
 
+Package: com.axs.snapper4
+Architecture: iphoneos-arm64e
+Version: 5.2.0-45
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/snapper4_5.2.0-45_iphoneos-arm64e.deb
+Size: 381460
+MD5sum: 5881ffe59070b5a084cae8b8a60a75f1
+SHA1: 71d46b684da56e16884d3155f5effd6b2a754922
+SHA256: 6a7baa466654e2ecb4c027198bd73ce40f7d697377baae5deabb138e8c1c49dd
+SHA512: c5db67d391db02c0126d6f228bc067318647a6bd046927f6f5d3c0d72392a6e682c6d1855f57e1bd1078a030938e0daa42c5178a05399800505c79b112f70e49
+Section: 其它
+Description: 一款截图工具
+Name: Snapper4
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
 Package: byg.iosios.net.settingsrevamp
 Architecture: iphoneos-arm64
 Version: 3.0.1-1
