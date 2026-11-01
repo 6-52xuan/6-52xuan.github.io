@@ -39,6 +39,26 @@ Name: AppData
 Author: iosdump
 Icon: https://huayuarc.github.io/icon/AppData.png
 
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Maintainer: MrGcGamer
+Installed-Size: 380
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 55636
+MD5sum: 07551a0bc8a78c9bc872c3d7f47f12e9
+SHA1: 50fe8ce5f14bd3d58145933e8a4a410025ee5530
+SHA256: af0e87d33d582da5295873e4c9448a5f0c6a77953ddcf8966041a2ef0c1315bd
+SHA512: 9d2c0055b257f23dac3a684d31b4d4a393ac3e6eb071b8b840db4b339e573913244226c7d6274a2354db1f0b804a521c943022b47fcd719808a3fb1122277117
+Section: 其它
+Description: 设置归类依赖
+Tag: role::developer
+Name: LibGcUniversal(RootHide)
+Author: MrGcGamer
+
 Package: im.mjh.doleo
 Architecture: iphoneos-arm64e
 Version: 1.0.2
