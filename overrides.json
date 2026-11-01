@@ -10,5 +10,9 @@
   "Evo_center_4.1.0-arm64e.deb": {
     "name": "Evo Center",
     "desc": "自定义控制中心插件"
+  },
+  "设置归类settingsrevamp_3.0.1-1_iphoneos-arm64.deb": {
+    "name": "设置归类",
+    "desc": "自定义设置"
   }
 }
