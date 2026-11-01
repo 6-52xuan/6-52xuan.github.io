@@ -103,6 +103,24 @@ SileoDepiction: https://apt.mjh.im/depiction/native/im.mjh.doleo.roothide.json?v
 ModernDepiction: https://apt.mjh.im/depiction/native/im.mjh.doleo.roothide.json?v=c36783201cc5
 Tags: compatible_min::ios15.0
 
+Package: com.dao.immortalizer
+Architecture: iphoneos-arm64
+Version: 2.0.1.1
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: debs/immortalizer_2.0.1.1-arm64.deb
+Size: 49494
+MD5sum: 7d0f905604a9e46b946d05c6ade6b546
+SHA1: c04cd798c70bbb09a4947ae37c78a69308a181cb
+SHA256: 8b204a6184fbc2003efb30713e97d1b02f25bf42c1cae621ade3238d3889efcf
+SHA512: 59e0ed46459f44045a5b4a5a6a4a35ca187412093176b3e8bbfab88d6d9dae311777213f6486dfb2b8b3d61ba995a395429afa2c97e2bfdc56a0b970d6e6851d
+Section: 其它
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块
+Name: Immortalizer
+Author: sergy
+
 Package: com.sini921.quickpowerbutton
 Architecture: iphoneos-arm64e
 Version: 0.0.1-39
