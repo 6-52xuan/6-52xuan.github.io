@@ -121,6 +121,25 @@ Name: 快速电源按钮QuickPowerButton
 icon: https://huayuarc.github.io/icon/QuickPowerButton.png
 Author: SINI
 
+Package: com.0xkuj.safarixs
+Architecture: iphoneos-arm64
+Version: 1.9.9
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: debs/safarixs_1.9.9_-arm64.deb
+Size: 324356
+MD5sum: 7f070c3576c7dbeaaad7a1ab75ff3b42
+SHA1: d9478700fb1af58d5a7b8d9a5755442adb6a7e07
+SHA256: fbed0f5da8f2770ba5502f9b3e3104689ccaa65c98d257b59ac909fb28f450be
+SHA512: cc3d42012c9baf45ed8ab797b5509f99314cba177fd99cce54d93ca63540b7699c002be0590591dfcfe3c90e4e7482dca17e24c1f467824a7118cf2a27301c57
+Section: 其它
+Description: 浏览器增强插件
+Name: safarixs
+Author: 0xkuj
+icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+
 Package: com.axs.snapper4
 Architecture: iphoneos-arm64e
 Version: 5.2.0-45
