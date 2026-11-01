@@ -42,5 +42,9 @@
   "safarixs_1.9.9_-arm64.deb": {
     "name": "safarixs",
     "desc": "浏览器增强插件"
+  },
+  "immortalizer_2.0.1.1-arm64.deb": {
+    "name": "Immortalizer",
+    "desc": "可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块"
   }
 }
