@@ -141,6 +141,23 @@ Author: Axs <qiaozhini000@163.com>
 Icon: https://axs66.github.io/pro/icon/snapper.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
+Package: com.crctdd.autocopyverify
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Maintainer: crctdd
+Installed-Size: 1524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/自动复制验证码autocopyverify_0.0.5_iphoneos-arm64.deb
+Size: 100532
+MD5sum: 25a432a2df8b0cbb8ea78ea39d2c695f
+SHA1: 6838f9e055fa73084a5843dc96fcd91539cb11a2
+SHA256: 0e028e419b7fe0eefc6d9b834adb9bde73e5071fcdc6e94df4c74b89532cab90
+SHA512: 05a0f4a2ccb1a720c0965d7f5522142bc70997123d3d110ae24dfa9c8f02c0806b41829ee78489a8766ddb27a115c2304bb8f0b2d621d9374347e6a529be539b
+Section: 其它
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Name: 自动复制工具
+Author: crctdd
+
 Package: byg.iosios.net.settingsrevamp
 Architecture: iphoneos-arm64
 Version: 3.0.1-1
