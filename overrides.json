@@ -2,5 +2,9 @@
   "重定向选择器-arm64e.deb": {
     "name": "重定向选择器",
     "desc": "支付实现分身自由"
+  },
+  "doleo_1.0.2_iphoneos-arm64e.deb": {
+    "name": "DEB",
+    "desc": "Sileo中可以单独下载插件"
   }
 }
