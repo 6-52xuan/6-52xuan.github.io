@@ -6,5 +6,9 @@
   "doleo_1.0.2_iphoneos-arm64e.deb": {
     "name": "DEB",
     "desc": "Sileo中可以单独下载插件"
+  },
+  "Evo_center_4.1.0-arm64e.deb": {
+    "name": "Evo Center",
+    "desc": "自定义控制中心插件"
   }
 }
