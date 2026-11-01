@@ -13,7 +13,7 @@ SHA1: c1eda8196f657a768529c3e29cd76d8c365808af
 SHA256: 3adf82adf99913d9cb16d87d7158e8369e0f3f53eaae94f74aaa4ed9ddeb4d87
 SHA512: 831ae18c85250cd3abfe2ec7268b7d60bfa5fa661585d6ac59bd469a5c846a8a74b74604487f629d10036cdd7871a806df5b232b94932a21b528b37318fe348a
 Homepage: https://eleveny123.github.io/EvoCenter/
-Section: 其它
+Section: 自用
 Description: 自定义控制中心插件
 Name: Evo Center
 Author: chatgpt5.6sol, chatgpt6.1sol, JaySuen
@@ -33,7 +33,7 @@ MD5sum: 22dc71b5ecf9f94180698ac11b8b45dd
 SHA1: 64b98b745de8c56afd302b08b554ac8f13b07efb
 SHA256: b960358e95eadf8665145f57ad07f01c90b5fc709b4f6a8a123f3c53b29f4cd1
 SHA512: d69ae301e4b6d741ee3ae97584b83f696938df6aab55a7336ed4761db9d164ae1373cd05f29005e9a46628d260852dcbf8b4ad4db14a465b80b8712069d04b74
-Section: 其它
+Section: 自用
 Description: 在主屏幕查看应用数据与管理应用
 Name: AppData
 Author: iosdump
@@ -53,7 +53,7 @@ MD5sum: 07551a0bc8a78c9bc872c3d7f47f12e9
 SHA1: 50fe8ce5f14bd3d58145933e8a4a410025ee5530
 SHA256: af0e87d33d582da5295873e4c9448a5f0c6a77953ddcf8966041a2ef0c1315bd
 SHA512: 9d2c0055b257f23dac3a684d31b4d4a393ac3e6eb071b8b840db4b339e573913244226c7d6274a2354db1f0b804a521c943022b47fcd719808a3fb1122277117
-Section: 其它
+Section: 自用
 Description: 设置归类依赖
 Tag: role::developer
 Name: LibGcUniversal(RootHide)
@@ -74,7 +74,7 @@ MD5sum: df82ca32246a55580b46c15f97d5ff23
 SHA1: 8604ab4a9912c7287245a9bffab8e10e543a0ab0
 SHA256: a9c4ab125d7b2aa4b127cd3e6fd77aaba36f22e9b376beaa9b292bd4116d894f
 SHA512: 515d4385ceba0273f5c439a17eccb0de5553248cdc596b8c502d0159651fd8016ec6e77ce6b49a4f8528ed2e150ea1fc37204b7de7504ad869af59ae8b0bf0ef
-Section: 其它
+Section: 自用
 Description: 支持CC模块的调整！
 Name: 控制中心模块CCSupport
 Author: opa334
@@ -93,7 +93,7 @@ SHA1: f0f953f1f187e3a0b2528a94c77de8cd92447247
 SHA256: faa1d9b77f7500ff24e23cb8c437d77e17e436d369b72225e300d682f6c11b8f
 SHA512: 3bf1a626f2243653ceb90428c6f79dccbd579887b7f2ad855482e03e7644599f90294b76cc9f05e2440d956b588242e8605451239d3ec44fcecad8662d75e3e0
 Homepage: https://doleo.goforit.si/
-Section: 其它
+Section: 自用
 Description: Sileo中可以单独下载插件
 Name: DEB
 Author: Junhong
@@ -116,7 +116,7 @@ MD5sum: 7d0f905604a9e46b946d05c6ade6b546
 SHA1: c04cd798c70bbb09a4947ae37c78a69308a181cb
 SHA256: 8b204a6184fbc2003efb30713e97d1b02f25bf42c1cae621ade3238d3889efcf
 SHA512: 59e0ed46459f44045a5b4a5a6a4a35ca187412093176b3e8bbfab88d6d9dae311777213f6486dfb2b8b3d61ba995a395429afa2c97e2bfdc56a0b970d6e6851d
-Section: 其它
+Section: 自用
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块
 Name: Immortalizer
 Author: sergy
@@ -133,7 +133,7 @@ MD5sum: 90f070f0f0fb6e24a02134e96548be03
 SHA1: 6dc9c05f3c830c6e12d8785a3cd9306bc129bf6d
 SHA256: f914a9c21d42f34af1562cab8f131bf8a58810b56ab2bb5ed7834c1d2af23b1b
 SHA512: b62775ac559e55410108e60ccfed319b20a2e04111ab33e699e5c2c5ced1fc99f5eac65197ffd19fd87ddde6bda692ada203bcaed7c25b6742b2945320450bbc
-Section: 其它
+Section: 自用
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Name: 快速电源按钮QuickPowerButton
 icon: https://huayuarc.github.io/icon/QuickPowerButton.png
@@ -151,7 +151,7 @@ MD5sum: 7f070c3576c7dbeaaad7a1ab75ff3b42
 SHA1: d9478700fb1af58d5a7b8d9a5755442adb6a7e07
 SHA256: fbed0f5da8f2770ba5502f9b3e3104689ccaa65c98d257b59ac909fb28f450be
 SHA512: cc3d42012c9baf45ed8ab797b5509f99314cba177fd99cce54d93ca63540b7699c002be0590591dfcfe3c90e4e7482dca17e24c1f467824a7118cf2a27301c57
-Section: 其它
+Section: 自用
 Description: 浏览器增强插件
 Name: safarixs
 Author: 0xkuj
@@ -171,7 +171,7 @@ MD5sum: 5881ffe59070b5a084cae8b8a60a75f1
 SHA1: 71d46b684da56e16884d3155f5effd6b2a754922
 SHA256: 6a7baa466654e2ecb4c027198bd73ce40f7d697377baae5deabb138e8c1c49dd
 SHA512: c5db67d391db02c0126d6f228bc067318647a6bd046927f6f5d3c0d72392a6e682c6d1855f57e1bd1078a030938e0daa42c5178a05399800505c79b112f70e49
-Section: 其它
+Section: 自用
 Description: 一款截图工具
 Name: Snapper4
 Author: Axs <qiaozhini000@163.com>
@@ -190,7 +190,7 @@ MD5sum: 25a432a2df8b0cbb8ea78ea39d2c695f
 SHA1: 6838f9e055fa73084a5843dc96fcd91539cb11a2
 SHA256: 0e028e419b7fe0eefc6d9b834adb9bde73e5071fcdc6e94df4c74b89532cab90
 SHA512: 05a0f4a2ccb1a720c0965d7f5522142bc70997123d3d110ae24dfa9c8f02c0806b41829ee78489a8766ddb27a115c2304bb8f0b2d621d9374347e6a529be539b
-Section: 其它
+Section: 自用
 Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
 Name: 自动复制工具
 Author: crctdd
@@ -208,7 +208,7 @@ MD5sum: 364cd88c9d5f6e32b4ed195be2da967f
 SHA1: 13cd1d1afaf643fd30d9ecf98f9a74a20cf49f9f
 SHA256: 5839ee76122a25d66f12d314d630205594cdf761b5cd69d32b61de865d6419ff
 SHA512: 1d4c3b06b75dcd04f5a2ddd41e50383a00cb42af092f1d245f98ee89f96194c89a7abae08f40a305b67e9c80f4e00996107ef5f88377bb0a2e22ef7106a13d73
-Section: 其它
+Section: 自用
 Description: 自定义设置
 Name: 设置归类
 Author: SOPPPra
@@ -227,7 +227,7 @@ MD5sum: edfe0fca0c410b6783442ab4407be4db
 SHA1: 52caec97c1a20c0e1067370841299740a0b59ff2
 SHA256: 7824a617146c40dd1458b93920e289bd69de7ebbcc447924a96c7a713b430524
 SHA512: e1be8afd6ad51ae68a534003c316a40b25f3170fde3ebbcef249e927de81ff24f02a6b3fd3d7bb07ed90366ea00776ef6ed48b8d52502f1d2c4a532479f2b084
-Section: 其它
+Section: 自用
 Description: 支付实现分身自由
 Name: 重定向选择器
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
