@@ -22,5 +22,9 @@
   "com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb": {
     "name": "LibGcUniversal(RootHide)",
     "desc": "设置归类依赖"
+  },
+  "com.opa334.ccsupport_1.3.13-2-15_debug_iphoneos-arm64e.deb": {
+    "name": "控制中心模块CCSupport",
+    "desc": "支持CC模块的调整！"
   }
 }
