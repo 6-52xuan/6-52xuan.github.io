@@ -34,5 +34,9 @@
   "CCLess_-2.0.6-iphoneos-arm64.deb": {
     "name": "CCLess++",
     "desc": "多个控制中心模块"
+  },
+  "自动复制验证码autocopyverify_0.0.5_iphoneos-arm64.deb": {
+    "name": "自动复制工具",
+    "desc": "自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）"
   }
 }
