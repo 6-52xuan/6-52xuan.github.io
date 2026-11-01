@@ -30,5 +30,9 @@
   "snapper4_5.2.0-45_iphoneos-arm64e.deb": {
     "name": "Snapper4",
     "desc": "一款截图工具"
+  },
+  "CCLess_-2.0.6-iphoneos-arm64.deb": {
+    "name": "CCLess++",
+    "desc": "多个控制中心模块"
   }
 }
