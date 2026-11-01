@@ -1,3 +1,26 @@
+Package: com.jaysuen.evocenter
+Architecture: iphoneos-arm64e
+Version: 4.1.0-beta.2
+Maintainer: chatgpt5.6sol, chatgpt6.1sol, JaySuen
+Installed-Size: 13116
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, cy+cpu.arm64e
+Conflicts: com.jaysuen.ccflex16, com.jaysuen.evocenter.arm64, com.jaysuen.evocenter.arm64e
+Replaces: com.jaysuen.ccflex16, com.jaysuen.evocenter.arm64, com.jaysuen.evocenter.arm64e
+Filename: debs/Evo_center_4.1.0-arm64e.deb
+Size: 920356
+MD5sum: cda1aee064941528f60a6c10909ecb18
+SHA1: c1eda8196f657a768529c3e29cd76d8c365808af
+SHA256: 3adf82adf99913d9cb16d87d7158e8369e0f3f53eaae94f74aaa4ed9ddeb4d87
+SHA512: 831ae18c85250cd3abfe2ec7268b7d60bfa5fa661585d6ac59bd469a5c846a8a74b74604487f629d10036cdd7871a806df5b232b94932a21b528b37318fe348a
+Homepage: https://eleveny123.github.io/EvoCenter/
+Section: 其它
+Description: 自定义控制中心插件
+Name: Evo Center
+Author: chatgpt5.6sol, chatgpt6.1sol, JaySuen
+Icon: https://eleveny123.github.io/EvoCenter/assets/icon.png
+Depiction: https://eleveny123.github.io/EvoCenter/index.html
+SileoDepiction: https://eleveny123.github.io/EvoCenter/native.json?v=4.1.0-beta.2&r=beta41fix2-20261101
+
 Package: com.iosdump.appdata
 Architecture: iphoneos-arm64
 Version: 2.7.5
