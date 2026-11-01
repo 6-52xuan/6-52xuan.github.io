@@ -14,5 +14,9 @@
   "设置归类settingsrevamp_3.0.1-1_iphoneos-arm64.deb": {
     "name": "设置归类",
     "desc": "自定义设置"
+  },
+  "quickpowerbutton_0.0.1-39_iphoneos-arm64e.deb": {
+    "name": "快速电源按钮QuickPowerButton",
+    "desc": "在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项"
   }
 }
