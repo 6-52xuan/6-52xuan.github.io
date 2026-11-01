@@ -2,8 +2,15 @@ Origin: 可妙
 Label: 可妙
 Suite: stable
 Version: 1.0
-Codename: iphoneos
-Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 可妙的 iOS 越狱软件源
-Banner: https://6-52xuan.github.io/banner.jpg
+Description: 可妙
+Support: https://6-52xuan.github.io/
+Icon: https://6-52xuan.github.io/CydiaIcon.png
+MD5Sum:
+ 68b329da9893e34099c7d8ad5cb9c940  1 Packages
+ ec0c4c0de2ed3d54663492564f9d953b  30 Packages.gz
+SHA256:
+ 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  1 Packages
+ 325d5a2e15f0ea3f1c3afc39be7fb69dbac410f5c32a80954cdc17e968005ab2  30 Packages.gz
