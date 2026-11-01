@@ -59,6 +59,27 @@ Tag: role::developer
 Name: LibGcUniversal(RootHide)
 Author: MrGcGamer
 
+Package: com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.3.13-2-15+debug
+Maintainer: opa334
+Installed-Size: 716
+Provides: com.ioscreatix.silo
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: debs/com.opa334.ccsupport_1.3.13-2-15_debug_iphoneos-arm64e.deb
+Size: 73392
+MD5sum: df82ca32246a55580b46c15f97d5ff23
+SHA1: 8604ab4a9912c7287245a9bffab8e10e543a0ab0
+SHA256: a9c4ab125d7b2aa4b127cd3e6fd77aaba36f22e9b376beaa9b292bd4116d894f
+SHA512: 515d4385ceba0273f5c439a17eccb0de5553248cdc596b8c502d0159651fd8016ec6e77ce6b49a4f8528ed2e150ea1fc37204b7de7504ad869af59ae8b0bf0ef
+Section: 其它
+Description: 支持CC模块的调整！
+Name: 控制中心模块CCSupport
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+
 Package: im.mjh.doleo
 Architecture: iphoneos-arm64e
 Version: 1.0.2
