@@ -26,5 +26,9 @@
   "com.opa334.ccsupport_1.3.13-2-15_debug_iphoneos-arm64e.deb": {
     "name": "控制中心模块CCSupport",
     "desc": "支持CC模块的调整！"
+  },
+  "snapper4_5.2.0-45_iphoneos-arm64e.deb": {
+    "name": "Snapper4",
+    "desc": "一款截图工具"
   }
 }
