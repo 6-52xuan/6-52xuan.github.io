@@ -1,1 +1,36 @@
+Package: com.iosdump.appdata
+Architecture: iphoneos-arm64
+Version: 2.7.5
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.5_iphoneos-arm64.deb
+Size: 1719404
+MD5sum: 22dc71b5ecf9f94180698ac11b8b45dd
+SHA1: 64b98b745de8c56afd302b08b554ac8f13b07efb
+SHA256: b960358e95eadf8665145f57ad07f01c90b5fc709b4f6a8a123f3c53b29f4cd1
+SHA512: d69ae301e4b6d741ee3ae97584b83f696938df6aab55a7336ed4761db9d164ae1373cd05f29005e9a46628d260852dcbf8b4ad4db14a465b80b8712069d04b74
+Section: 其它
+Description: 在主屏幕查看应用数据与管理应用
+Name: AppData
+Author: iosdump
+Icon: https://huayuarc.github.io/icon/AppData.png
 
+Package: com.iosdump.jumpselect
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Maintainer: iosdump
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/重定向选择器-arm64e.deb
+Size: 59964
+MD5sum: edfe0fca0c410b6783442ab4407be4db
+SHA1: 52caec97c1a20c0e1067370841299740a0b59ff2
+SHA256: 7824a617146c40dd1458b93920e289bd69de7ebbcc447924a96c7a713b430524
+SHA512: e1be8afd6ad51ae68a534003c316a40b25f3170fde3ebbcef249e927de81ff24f02a6b3fd3d7bb07ed90366ea00776ef6ed48b8d52502f1d2c4a532479f2b084
+Section: 其它
+Description: 支付实现分身自由
+Name: 重定向选择器
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/js.json
+Author: iosdump
