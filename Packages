@@ -62,6 +62,24 @@ SileoDepiction: https://apt.mjh.im/depiction/native/im.mjh.doleo.roothide.json?v
 ModernDepiction: https://apt.mjh.im/depiction/native/im.mjh.doleo.roothide.json?v=c36783201cc5
 Tags: compatible_min::ios15.0
 
+Package: com.sini921.quickpowerbutton
+Architecture: iphoneos-arm64e
+Version: 0.0.1-39
+Maintainer: SINI
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/quickpowerbutton_0.0.1-39_iphoneos-arm64e.deb
+Size: 89204
+MD5sum: 90f070f0f0fb6e24a02134e96548be03
+SHA1: 6dc9c05f3c830c6e12d8785a3cd9306bc129bf6d
+SHA256: f914a9c21d42f34af1562cab8f131bf8a58810b56ab2bb5ed7834c1d2af23b1b
+SHA512: b62775ac559e55410108e60ccfed319b20a2e04111ab33e699e5c2c5ced1fc99f5eac65197ffd19fd87ddde6bda692ada203bcaed7c25b6742b2945320450bbc
+Section: 其它
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Name: 快速电源按钮QuickPowerButton
+icon: https://huayuarc.github.io/icon/QuickPowerButton.png
+Author: SINI
+
 Package: byg.iosios.net.settingsrevamp
 Architecture: iphoneos-arm64
 Version: 3.0.1-1
